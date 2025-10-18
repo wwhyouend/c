@@ -37,10 +37,10 @@
 
 
 #picture {
-    width: 200px;
+    width: 330px;
     height: auto;
     position: relative;
-    bottom: 200px;
+    bottom: -200px;
     size: -50px;
     transform: scale(0.4);
 }
