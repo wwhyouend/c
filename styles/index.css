@@ -1,0 +1,46 @@
+* {
+    background-color: black;
+    color: white;
+    position: relative;
+
+}
+
+.lettre {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+
+.title {
+    position: relative;
+    width: 100%;
+    height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-display: block;
+}
+
+
+.texte {
+
+    width: 100%;
+    height: 100px;
+    position: relative;
+    rotate: initial;
+
+
+
+}
+
+
+#picture {
+    width: 200px;
+    height: auto;
+    position: relative;
+    bottom: 200px;
+    size: -50px;
+    transform: scale(0.4);
+}
